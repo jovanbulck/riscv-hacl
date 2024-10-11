@@ -1,0 +1,3 @@
+[submodule "hacl-c"]
+	path = hacl-c
+	url = git@github.com:paparazzi/hacl-c.git
